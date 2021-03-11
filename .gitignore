@@ -30,3 +30,8 @@
 
 # Debug files
 *.dSYM/
+
+.DS_Store
+.vscode
+
+prog
